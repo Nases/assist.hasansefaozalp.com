@@ -1,7 +1,5 @@
 # React Notes
 
-`useState`
-
 ```jsx
 import { useState, useEffect } from "react";
 
@@ -29,12 +27,6 @@ const { altMenuActive, ...rest } = props
 // what we don't want to pass in with {...props} and use the rest
 
 ```
-
-TODO: Check if useEffect fires on component re-render or on-load when we put in the second argument because if it does not then it will be soooo helpful!
-
-
-
-React mouse events: [https://reactjs.org/docs/events.html\#mouse-events](https://reactjs.org/docs/events.html#mouse-events)
 
 
 
