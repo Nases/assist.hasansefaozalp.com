@@ -39,3 +39,18 @@ ncu -g // for global package updates
 server.use(cors({ credentials: true, origin: 'http://localhost:3000' }))
 ```
 
+```markup
+<!-- fontawesome  -->
+<script src="https://kit.fontawesome.com/c9c5a1adc4.js" crossorigin="anonymous"></script>
+```
+
+```markup
+<!-- tailwindcss  -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tailwindcss/ui@latest/dist/tailwind-ui.min.css">
+```
+
+```bash
+# init next.js app with tailwindcss
+npm init next-app --example with-tailwindcss .
+```
+
