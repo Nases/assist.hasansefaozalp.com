@@ -64,5 +64,5 @@ If a mapped components are going to change order or inserted & deleted, don't us
 
 Fallback weights: [https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight\#fallback\_weights](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight#fallback_weights) if a given weight is not found font weight will be changed to what ever closest available \(exact details in the link\)
 
-in order to align middle absolutely positioned elements inset-y-0 -&gt; flex items-center \(makes the element's h full relative to relative element\)
+in order to align middle absolutely positioned elements, `inset-y-0 flex items-center` \(makes the element's h full relative to relative element\)
 

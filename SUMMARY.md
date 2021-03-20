@@ -9,9 +9,9 @@
 
 ---
 
+* [programming-notes](programming-notes.md)
+* [personal-notes](personal-notes.md)
 * [emojis](copypaste-able-emojis.md)
 * [regex](regex.md)
 * [op-people-in-software](op-people-in-software-industry.md)
-* [personal-notes](personal-notes.md)
-* [programming-notes](programming-notes.md)
 
