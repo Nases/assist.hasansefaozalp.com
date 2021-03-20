@@ -26,9 +26,9 @@ it is correct to call 'returns promise'.
 
 GraphQL queries are stored in client's in-memory cache, so future requests for same data will be served from cache. Which also means mutations should update that cache \(logout was also a problem\). 
 
-Apollo fetch policies - [https://www.apollographql.com/docs/react/data/queries/\#supported-fetch-policies](https://www.apollographql.com/docs/react/data/queries/#supported-fetch-policies)
+Apollo fetch policies - [https://www.apollographql.com/docs/react/data/queries/\#supported-fetch-policies](https://www.apollographql.com/docs/react/data/queries/#supported-fetch-policies).
 
-?? \(nullish coalescing operator\) \(null \|\| undefined\) ?? 'this will print'
+?? \(nullish coalescing operator\) \(null \|\| undefined\) ?? 'this will print'.
 
 tracking-wider \(css letter-spacing\) to increase or decrease letter spacing.
 
@@ -58,11 +58,11 @@ So different domains should be the way to go -->
 
 onKeyDown with e.key \(gives string values of key pressed for focused inputs\) for input components, if a key changes on re-render input will lose focus.
 
-while using useMemo, props are passed in but it does not re-render
+while using useMemo, props are passed in but it does not re-render.
 
 If a mapped components are going to change order or inserted & deleted, don't use array's index as key. That will force react to re-render all of the components that's key changed. [https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/no-array-index-key.md](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/no-array-index-key.md)
 
-Fallback weights: [https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight\#fallback\_weights](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight#fallback_weights) if a given weight is not found font weight will be changed to what ever closest available \(exact details in the link\)
+Fallback weights: [https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight\#fallback\_weights](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight#fallback_weights) if a given weight is not found font weight will be changed to what ever closest available \(exact details in the link\).
 
-in order to align middle absolutely positioned elements, `inset-y-0 flex items-center` \(makes the element's h full relative to relative element\)
+in order to align middle absolutely positioned elements, `inset-y-0 flex items-center` \(makes the element's h full relative to relative element\).
 
