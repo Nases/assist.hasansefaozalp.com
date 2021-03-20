@@ -11,7 +11,7 @@ git add . && git commit -m 'Hello World' && git push -u origin master
 # but we have already pushed the node_modules to GitHub 
 # then we have to use below git command then add - commit - push changes to GitHub
 git rm -r --cached . 
-# then save
+# then save, npm run save-alpha etc.
 ```
 
 ```bash
