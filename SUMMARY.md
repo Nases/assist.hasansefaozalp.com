@@ -13,4 +13,5 @@
 * [regex](regex.md)
 * [op-people-in-software](op-people-in-software-industry.md)
 * [personal-notes](personal-notes.md)
+* [programming-notes](programming-notes.md)
 
