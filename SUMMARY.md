@@ -7,7 +7,6 @@
 ## Nases Group LLC
 
 * [Accounting](nases-group-llc/accounting.md)
-* [Weaverly](nases-group-llc/weaverly.md)
 * [General](nases-group-llc/general.md)
 
 ---
