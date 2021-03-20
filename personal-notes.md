@@ -30,7 +30,5 @@ Upstairs more fresh air.
 
 If the task is challenging, it is ok to not progress. It is still a practice for the mind!
 
-Gaming is mostly mastering the basics.
-
-Software Engineering / Coding is mastering lots of different technologies.
+Gaming is mostly mastering the basics. Software Engineering / Coding is mastering lots of different technologies.
 
