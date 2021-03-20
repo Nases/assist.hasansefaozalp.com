@@ -19,11 +19,11 @@ git remote -v
 git remote set-url origin git@github.com
 ```
 
-```text
-// update all major updates for all the packages
+```bash
+# update all major updates for all the packages
 
-// remove node_modules & package-lock.json
-// npm install -g npm-check-updates
+# remove node_modules & package-lock.json
+# npm install -g npm-check-updates
 
 npx rimraf ./**/node_modules
 rm package-lock.json
