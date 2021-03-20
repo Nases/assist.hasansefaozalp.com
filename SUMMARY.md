@@ -2,12 +2,10 @@
 
 * [Usefull](README.md)
 
-## Mini Projects
-
 ## Nases Group LLC
 
+* [General](nases-group-llc/general-1.md)
 * [Accounting](nases-group-llc/accounting.md)
-* [General](nases-group-llc/general.md)
 
 ---
 
@@ -18,9 +16,6 @@
 * [Good Design](good-design.md)
 * [SSH](ssh.md)
 * [regex](regex.md)
-
-## General
-
-* [OP people in software industry](general/op-people-in-software-industry.md)
-* [Paypal changes to Node.js](general/paypal-changes-to-node.js.md)
+* [OP people in software industry](op-people-in-software-industry.md)
+* [Paypal changes to Node.js](paypal-changes-to-node.js.md)
 
