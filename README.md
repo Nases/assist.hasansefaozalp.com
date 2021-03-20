@@ -14,8 +14,6 @@ If we add something to .gitignore file like node\_modules but we have already pu
 git rm -r --cached . 
 ```
 
-
-
 ```text
 git remote -v
 git remote set-url origin git@github.com
