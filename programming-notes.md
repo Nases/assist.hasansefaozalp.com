@@ -1,9 +1,6 @@
 # programming-notes
 
 ```css
-/* flex justify-center items-center */
-/* flex flex-col justify-between */
-
 @keyframes blink {
   0% {opacity: 0;}
   50% {opacity: 1;}
