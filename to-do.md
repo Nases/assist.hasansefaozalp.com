@@ -1,7 +1,5 @@
 # To Do
 
-Finish the auth app
-
 Passport serialize - deserialize  
 [https://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize](https://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize)
 
@@ -20,8 +18,4 @@ Bitwise operators in Javascript
 
 Regular Expression in Javascript  
 [https://www.w3schools.com/js/js\_regexp.asp](https://www.w3schools.com/js/js_regexp.asp)
-
-ismydogcute or ismycatcute app
-
-twitch streamers \(Amazon affiliate website, can also add youtube after twitch is done\)
 
