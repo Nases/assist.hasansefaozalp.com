@@ -2,7 +2,7 @@
 description: 'https://c8.qbo.intuit.com/    -- Quickbooks Online'
 ---
 
-# Accounting
+# accounting
 
 [https://quickbooks.intuit.com/](https://quickbooks.intuit.com/) - for bookkeeping
 

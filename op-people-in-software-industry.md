@@ -1,4 +1,4 @@
-# OP people in software industry
+# op-people-in-software
 
 Sarah Drasner - [https://sarahdrasnerdesign.com/](https://sarahdrasnerdesign.com/) \( Google knowledge panel / putting different images on different websites, react animated page changes \)
 

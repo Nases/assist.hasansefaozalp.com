@@ -1,15 +1,16 @@
 # Table of contents
 
-* [Usefull](README.md)
+* [usefull](README.md)
 
 ## Nases Group LLC
 
-* [General](nases-group-llc/general-1.md)
-* [Accounting](nases-group-llc/accounting.md)
+* [general](nases-group-llc/general-1.md)
+* [accounting](nases-group-llc/accounting.md)
 
 ---
 
 * [emojis](copypaste-able-emojis.md)
 * [regex](regex.md)
-* [OP people in software industry](op-people-in-software-industry.md)
+* [op-people-in-software](op-people-in-software-industry.md)
+* [personal-notes](personal-notes.md)
 
