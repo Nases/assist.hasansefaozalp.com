@@ -1,4 +1,4 @@
-# Copypaste-able
+# emojis
 
 {% embed url="https://unicode-table.com/en/" %}
 

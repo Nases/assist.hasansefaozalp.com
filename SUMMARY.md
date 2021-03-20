@@ -9,13 +9,7 @@
 
 ---
 
-* [To Do](to-do.md)
-* [Helpers](tools.md)
-* [Copypaste-able](copypaste-able-emojis.md)
-* [React Notes](react-notes.md)
-* [Good Design](good-design.md)
-* [SSH](ssh.md)
+* [emojis](copypaste-able-emojis.md)
 * [regex](regex.md)
 * [OP people in software industry](op-people-in-software-industry.md)
-* [Paypal changes to Node.js](paypal-changes-to-node.js.md)
 
