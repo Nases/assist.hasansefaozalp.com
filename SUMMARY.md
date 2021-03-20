@@ -4,8 +4,6 @@
 
 ## Mini Projects
 
-* [WoW Talent Generator](mini-projects/wow-talent-generator.md)
-
 ## Nases Group LLC
 
 * [Accounting](nases-group-llc/accounting.md)
