@@ -12,3 +12,21 @@ People always want things at their limit.
 
 It does not have to be perfect.
 
+There is no luck at late game \(Method, Limit, Echo etc\).
+
+You can always go back.
+
+Can't live with fear.
+
+Do it for the challenge.
+
+Dream.
+
+If it's hard then so many people will get eliminated.
+
+Some places suck either way.
+
+Upstairs more fresh air.
+
+If the task is challenging, it is ok to not progress. It is still a practice for the mind!
+
