@@ -1,8 +1,6 @@
 # Usefull
 
-```bash
-git add . && git commit -m 'Hello World' && git push -u origin master
-
+```javascript
 "save": "git add . && git commit -m '🔹' && git push -u origin master"
 ```
 
