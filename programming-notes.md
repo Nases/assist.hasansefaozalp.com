@@ -44,11 +44,13 @@ e =&gt; e.stopPropagation\(\) // stops further propagation of the current event.
 <link rel="alternate" href="https://cvapp.fi/" hreflang="fi">
 <link rel="alternate" href="https://cv.dk/" hreflang="da">
 
-<!-- https://support.google.com/webmasters/answer/189077
+<!-- 
+https://support.google.com/webmasters/answer/189077
 even Google & Amazon does it like:
 google.com
 google.com.tr
-So different domains should be the way to go -->
+So different domains should be the way to go 
+-->
 
 ```
 
