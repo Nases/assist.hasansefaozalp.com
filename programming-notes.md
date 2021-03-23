@@ -66,3 +66,5 @@ in order to align middle absolutely positioned elements, `inset-y-0 flex items-c
 
 \`onKeyDown\` will only work if the element is focused.
 
+If focused element becomes `hidden` or `invisible` instead of parent, the document's body will get focused.
+
