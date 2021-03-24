@@ -32,3 +32,7 @@ If the task is challenging, it is ok to not progress. It is still a practice for
 
 Gaming is mostly mastering the basics. Software Engineering / Coding is mastering lots of different technologies.
 
+If you accomplish the first task of the day, it will give you small sense of pride and will encourage you to do an other task, and other, and other.
+
+Fuck the plan B.
+
