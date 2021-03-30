@@ -36,3 +36,5 @@ If you accomplish the first task of the day, it will give you small sense of pri
 
 Fuck the plan B.
 
+Have something to eat near/on the work-station.
+
