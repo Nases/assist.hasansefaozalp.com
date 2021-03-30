@@ -2,7 +2,7 @@
 
 Hot tea helps a lot.
 
-Top gaming tracks as well [https://open.spotify.com/](https://open.spotify.com/).
+Top gaming tracks as well.
 
 What incredible benefits can we give to a customer? \(Start with customer, not with technology\).
 
