@@ -74,7 +74,7 @@ const App = () => {
   const increase = () => {
     setCount((prevState) => {
       prevState.a = prevState.a + 1
-      return prevState // same ref so component won't re-render.
+      return prevState // same ref so component won't re-render on state change.
       // need to pass as { ...prevState } so new ref is created.
     })
   }
