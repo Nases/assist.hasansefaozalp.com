@@ -76,7 +76,7 @@ const App = () => {
       prevState.a = prevState.a + 1
       return prevState // same ref so component won't re-render on state change.
       // need to return as { ...prevState } so new ref is created.
-      // true for all non-primatives
+      // true for all non-primitives
     })
   }
   return (
