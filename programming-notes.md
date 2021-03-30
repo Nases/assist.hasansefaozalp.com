@@ -68,5 +68,24 @@ in order to align middle absolutely positioned elements, `inset-y-0 flex items-c
 
 If focused element becomes `hidden` or `invisible` instead of parent, the document's body will get focused.
 
+```jsx
+const App = () => {
+  const [count, setCount] = useState({ a: 1 })
+  const increase = () => {
+    setCount((prevState) => {
+      prevState.a = prevState.a + 1
+      return prevState // same ref so component won't re-render.
+      // need to pass as { ...prevState } so new ref is created.
+    })
+  }
+  return (
+    <div>
+      <div>Count: {count.a}</div>
+      <button onClick={increase}>increase</button>
+    </div>
+  )
+}
+```
+
 
 
