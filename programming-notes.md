@@ -64,7 +64,9 @@ Fallback weights: [https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight\
 
 in order to align middle absolutely positioned elements, `inset-y-0 flex items-center` \(makes the element's h full relative to relative element\).
 
-\`onKeyDown\` will only work if the element is focused.
+\`onKeyDown\` will only work if the element is focusable & focused.
 
 If focused element becomes `hidden` or `invisible` instead of parent, the document's body will get focused.
+
+
 
