@@ -2,7 +2,7 @@
 
 Hot tea helps a lot.
 
-Top gaming tracks as well.
+Top gaming tracks help as well.
 
 What incredible benefits can we give to a customer? \(Start with customer, not with technology\).
 
