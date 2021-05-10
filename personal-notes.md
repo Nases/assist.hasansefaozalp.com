@@ -38,3 +38,9 @@ Fuck the plan B.
 
 Have something to eat near/on the work-station.
 
+empathy - We will truly understand their needs better that any other company.
+
+focus - On order to do a good job of those things that we decide to do, we must eliminate all of the unimportant opportunities.
+
+impute - People DO judge a book by it's cover.
+
