@@ -16,4 +16,5 @@
 ## ResumeCat
 
 * [blog](resumecat/blog.md)
+* [Pitch](resumecat/pitch.md)
 
