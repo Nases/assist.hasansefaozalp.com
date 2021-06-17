@@ -1,6 +1,7 @@
 # Table of contents
 
 * [usefull](README.md)
+* [Investors](investors.md)
 * [programming-notes](programming-notes.md)
 * [personal-notes](personal-notes.md)
 * [emojis](copypaste-able-emojis.md)
