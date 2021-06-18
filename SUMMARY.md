@@ -16,5 +16,7 @@
 ## ResumeCat
 
 * [blog](resumecat/blog.md)
-* [pitch](resumecat/pitch.md)
+* [application](resumecat/application/README.md)
+  * [general](resumecat/application/general.md)
+  * [pitch](resumecat/application/pitch.md)
 
