@@ -10,3 +10,5 @@ ResumeCat is an online platform for people to create and share their resumes.
 
 Use as few words as possible.
 
+Similar to: Paypal - Venmo relationship -&gt; LinkedIn - ResumeCat relationship
+
