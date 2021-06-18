@@ -8,3 +8,5 @@ Friend works for FAANG
 
 ResumeCat is an online platform for people to create and share their resumes.
 
+Use as few words as possible.
+
