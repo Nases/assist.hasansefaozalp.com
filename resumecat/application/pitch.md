@@ -6,7 +6,7 @@ When people think about search, they imagine Google, what we want to do is when 
 
 Friend works for FAANG
 
-ResumeCat is an online platform for people to create and share their resumes.
+ResumeCat is an online platform for people to create, share and download their resumes.
 
 Use as few words as possible.
 
