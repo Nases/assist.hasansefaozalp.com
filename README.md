@@ -26,7 +26,7 @@ git remote set-url origin git@github.com
 npx rimraf ./**/node_modules
 rm package-lock.json
 ncu -u
-npm cache verify
+npm cache clean --force
 npm install
 ```
 
