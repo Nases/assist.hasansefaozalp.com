@@ -44,3 +44,5 @@ focus - On order to do a good job of those things that we decide to do, we must 
 
 impute - People DO judge a book by it's cover.
 
+Be yourself.
+
