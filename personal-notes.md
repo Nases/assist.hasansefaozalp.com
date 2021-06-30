@@ -46,3 +46,5 @@ impute - People DO judge a book by it's cover.
 
 Be yourself.
 
+Motivational speech works!
+
