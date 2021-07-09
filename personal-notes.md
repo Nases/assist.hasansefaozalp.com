@@ -48,3 +48,5 @@ Be yourself.
 
 Motivational speech works!
 
+Getting feedback from paid users are more valuable than no-paid users. Since paid users are more serious.
+
