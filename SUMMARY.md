@@ -3,14 +3,13 @@
 * [usefull](README.md)
 * [programming-notes](programming-notes.md)
 * [personal-notes](personal-notes.md)
-* [emojis](copypaste-able-emojis.md)
 * [regex](regex.md)
 * [op-people-in-software](op-people-in-software-industry.md)
 
-## Nases Group LLC
+## ResumeCat LLC
 
-* [general](nases-group-llc/general-1.md)
-* [accounting](nases-group-llc/accounting.md)
+* [general](resumecat-llc/general-1.md)
+* [accounting](resumecat-llc/accounting.md)
 
 ## ResumeCat
 
